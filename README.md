@@ -17,7 +17,7 @@ Server-side application is available in [this repository](https://github.com/umu
 `yarn start`
 
 
-## Screenshots
+# Screenshots
 
 <p align="center">
 <table>
